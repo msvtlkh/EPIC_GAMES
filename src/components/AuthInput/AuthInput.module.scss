@@ -1,0 +1,16 @@
+.input {
+    font-family: inherit;
+    font-size: 16px;
+    color: white;
+    padding: 20px;
+    height: 70px;
+    width: 100%;
+    background-color: transparent;
+    border: 2px white solid;
+    border-radius: 30px;
+    margin-bottom: 10px;
+
+    &:focus-visible {
+        outline: none;
+    }
+}

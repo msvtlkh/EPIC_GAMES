@@ -1,0 +1,211 @@
+.blocks__wrapper {
+    display: flex;
+    color: #F5F5F5;
+    font-weight: 400px;
+    margin-bottom: 40px;
+}
+
+.left__side {
+    width: 1056px;
+}
+
+.big__title {
+    font-size: 50px;
+    font-weight: 400;
+}
+
+.video__wrapper {
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.player__btn {
+    border: 1px solid #FFFFFF99;
+    margin-top: 20px;
+    padding: 10px 43px;
+    border-radius: 4px;
+}
+
+.big__desc {
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.about__games {
+    display: flex;
+}
+
+.genre_and_top__common__class {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border-left: 1px solid #FFFFFF1A;
+    margin-bottom: 20px;
+}
+
+.type__name {
+    color: #FFFFFF99;
+}
+
+.small__title {
+    margin-bottom: 10px;
+}
+
+.small__desc {
+    color: #FFFFFF99;
+
+}
+
+.photo__wrapper {
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+.block__name {
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.game__parts__wrapper {
+    margin-bottom: 50px;
+}
+
+.container__title {
+    font-size: 22px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.game__requirments {
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    padding: 35px 60px;
+    background-color: #262626;
+}
+
+.title__decor__wrapper {
+    display: flex;
+    width: 100%;
+}
+
+.operation__system {
+    cursor: pointer;
+    font-size: 12px;
+    color: #F5F5F5;
+    padding: 30px 0;
+    border-bottom: #F5F5F5 2px solid;
+    margin-bottom: 40px;
+}
+
+.line{
+    width: 100%;
+    height: 80px;
+    border-bottom: 1px solid #FFFFFF1A;
+}
+
+.configuration__wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.title {
+    color: #FFFFFF99;
+    margin-bottom: 30px;
+}
+
+.list__item {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.item__name {
+    color: #FFFFFF99;
+}
+
+.languages {
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #FFFFFF1A;
+    width: 100%;
+}
+
+.name {
+    color: #FFFFFF99;
+}
+
+.authorize__desc {
+    color: #FFFFFF99;
+    text-align: center;
+}
+
+.elem {
+    margin-top: 10px;
+    display: flex;
+    align-self: center;
+}
+
+
+
+
+
+
+//right
+.right__side {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+}
+
+.game__image {
+    border-radius: 4px;
+    width: 100%;
+    height: 198px;
+    margin-bottom: 10px;
+}
+
+.price {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.red__btn {
+    font-weight: 600;
+    font-size: 14px;
+    color: #fff;
+    background-color: #E3322D;
+    padding: 14px 130px;
+    margin-bottom: 10px;
+}
+
+.btn {
+    font-weight: 600;
+    font-size: 14px;
+    color: #fff;
+    padding: 14px 112px;
+    border: 1px solid #FFFFFF99;
+    margin-bottom: 10px;
+}
+
+.develop__item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+    border-bottom: 1px solid #FFFFFF1A;
+}
+
+.name {
+    color: #FFFFFF99;
+}
+

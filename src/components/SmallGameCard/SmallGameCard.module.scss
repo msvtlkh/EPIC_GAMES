@@ -1,0 +1,24 @@
+.card {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-radius: 13px;
+    padding: 13px 16px;
+    cursor: pointer;
+
+    &:hover {
+        background-color: #252525;
+    }
+}
+
+.img {
+    border-radius: 8px;
+    width: 60px;
+    height: 80px;
+}
+
+.title {
+    font-weight: 400;
+    color: #F5F5F5;
+    padding-left: 16px;
+}
